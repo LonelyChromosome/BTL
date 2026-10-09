@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="1200" height="650" fill="#eef3ef"/>
+<text x="50" y="48" font-size="27" font-family="Arial" font-weight="bold" fill="#214632">WIREFRAMES — STUDENT PLANNER</text>
+<g font-family="Arial" fill="#25352a" stroke="#63806e" stroke-width="2">
+<g transform="translate(50 75)">
+<rect width="320" height="520" rx="26" fill="white"/><text x="25" y="40" font-size="24" stroke="none" font-weight="bold">Trang chủ</text>
+<text x="25" y="67" font-size="15" stroke="none">Tổng quan lịch học hôm nay</text>
+<rect x="20" y="94" width="280" height="140" rx="15" fill="#c6e7d2"/><text x="37" y="140" font-size="18" stroke="none">THỜI KHÓA BIỂU</text><text x="37" y="179" font-size="22" stroke="none">3 môn hôm nay</text>
+<text x="25" y="273" font-size="18" stroke="none" font-weight="bold">Lịch học</text>
+<rect x="20" y="293" width="280" height="55" rx="10" fill="#f4f7f4"/><rect x="20" y="357" width="280" height="55" rx="10" fill="#f4f7f4"/><rect x="20" y="421" width="280" height="55" rx="10" fill="#f4f7f4"/>
+<text x="33" y="326" font-size="15" stroke="none">07:30 — Lập trình di động</text><text x="33" y="391" font-size="15" stroke="none">09:30 — Phân tích HTTT</text><text x="33" y="454" font-size="15" stroke="none">13:00 — Lập trình Web</text>
+<rect x="0" y="481" width="320" height="39" rx="12" fill="#e3eee5"/><text x="28" y="507" font-size="14" stroke="none">● Trang chủ    ○ Giới thiệu    ○ Chi tiết</text>
+</g>
+<g transform="translate(440 75)">
+<rect width="320" height="520" rx="26" fill="white"/><text x="25" y="42" font-size="24" stroke="none" font-weight="bold">Giới thiệu</text><rect x="30" y="90" width="260" height="220" rx="14" fill="#eaf2ea"/><text x="55" y="140" font-size="20" stroke="none">Thông tin ứng dụng</text><text x="55" y="175" font-size="16" stroke="none">Student Planner</text><rect x="0" y="481" width="320" height="39" rx="12" fill="#e3eee5"/><text x="27" y="507" font-size="14" stroke="none">○ Trang chủ    ● Giới thiệu    ○ Chi tiết</text></g>
+<g transform="translate(830 75)">
+<rect width="320" height="520" rx="26" fill="white"/><text x="25" y="42" font-size="24" stroke="none" font-weight="bold">Chi tiết</text><rect x="30" y="90" width="260" height="220" rx="14" fill="#eaf2ea"/><text x="55" y="140" font-size="20" stroke="none">Nội dung chi tiết</text><rect x="0" y="481" width="320" height="39" rx="12" fill="#e3eee5"/><text x="29" y="507" font-size="14" stroke="none">○ Trang chủ    ○ Giới thiệu    ● Chi tiết</text></g>
+</g></svg>
